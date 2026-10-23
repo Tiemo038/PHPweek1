@@ -18,4 +18,4 @@ $result ="" ;
  <h1> getalen reeks </h1>
   <p><?= $result ?></p>
 </body>
-</html>s
+</html>
