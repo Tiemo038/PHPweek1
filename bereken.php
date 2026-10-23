@@ -2,9 +2,9 @@
 $render = "Vul een getal in.";
 if (isset($_GET["getal"])) {
     $pi = pi();
-    echo &pi ;
+    //echo $pi ;
     $getal = (float) $_GET["getal"];
-    $render = "Dubbel: " . ($getal * 2);
+    $render = "Diameter: " . ($getal * $pi);
 }
 ?>
 <!doctype html>
