@@ -1,4 +1,3 @@
-```php
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -36,4 +35,3 @@
 
 </body>
 </html>
-```
